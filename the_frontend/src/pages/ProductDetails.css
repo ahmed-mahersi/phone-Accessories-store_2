@@ -1,0 +1,27 @@
+.details-container {
+  padding: 30px;
+  max-width: 600px;
+}
+
+.details-container img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+}
+
+.details-container h2 {
+  margin-top: 15px;
+}
+
+.details-container p {
+  margin-top: 8px;
+}
+
+.details-error,
+.details-loading {
+  padding: 30px;
+}
+
+.details-error {
+  color: red;
+}
